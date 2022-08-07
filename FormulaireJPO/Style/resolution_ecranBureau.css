@@ -1,0 +1,11 @@
+@media screen and (min-width: 2000px){
+	body{
+		
+	background-image: url("../Images/imageEtablissement_opt.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+		
+	}
+	
+}
+
